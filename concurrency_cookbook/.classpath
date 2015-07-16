@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="thread_one"/>
+	<classpathentry kind="src" path="thread_two"/>
+	<classpathentry kind="src" path="thread_four"/>
+	<classpathentry kind="src" path="thread_six"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_10"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,8 @@
+还有另外两种写法
+join(long milliseconds)
+当一个线程调用其它某个线程的join的方法是，如果使用的是第一种join方式
+那么他不必等待别掉哟那个县城运行终止，如果参数指定的毫秒时钟已经到达，它将继续运行，
+例如thread1中you这样的代码 thread2.join（1000），thread1 姜挂起运行，直到满足下面条件之一
+thread2 运行已经完成
+时钟已经过去1000毫秒
+join(long milliseconds);

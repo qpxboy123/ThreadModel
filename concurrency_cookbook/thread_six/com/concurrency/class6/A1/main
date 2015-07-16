@@ -1,0 +1,8 @@
+非堵塞式列表对应的实现类：ConcurrentLinkedDeque
+阻塞式列表对应的实现类：LinkedBlockingDeque
+用于数据生成或者消费的堵塞式列表对应的实现类：LinkedTransferQueue
+按优先级排序列表元素的阻塞式列表对应的实现类：PriorityBlockingQueue
+带有延迟列表元素的阻塞是列表对应的实现类:DelayQueue
+非阻塞式客遍历映射对应的实现类：ConcurrentSkipListMap
+随机数字对应的实现类：ThreadLocalRandom
+原子变量对应的实现类：AtomicLong 和 atomicIntegerArray类
